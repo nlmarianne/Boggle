@@ -9,8 +9,8 @@
 #include <ctype.h>
 #include <math.h>
 
-#define MAX_GRID_SIZE 9
-#define MAX_WORD_SIZE 9
+#define MAX_GRID_SIZE 1000
+#define MAX_WORD_SIZE 1000
 #define RED "\033[0;31m"
 #define RESET "\033[0m"
 
